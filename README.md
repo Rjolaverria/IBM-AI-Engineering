@@ -1,2 +1,2 @@
-# IBM-ML-capstone
-Capstone project for IBM Machine Learning course.
+# IBM-Machine-Learning
+Machine Learning Projects for the IBM AI Engineering course.
